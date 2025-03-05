@@ -1,0 +1,8 @@
+25-Mar_d-08:43:02:Preliminaries complete. Initiating ETL process
+25-Mar_d-08:43:07:Data extraction complete. Initiating Transformation process
+25-Mar_d-08:43:10:Data transformation complete. Initiating Loading process
+25-Mar_d-08:43:13:Data saved to CSV file
+25-Mar_d-08:43:14:SQL Connection initiated
+25-Mar_d-08:43:16:Data loaded to Database as a table, Executing queries
+25-Mar_d-08:43:22:Process Complete
+25-Mar_d-08:43:23:Server Connection closed
